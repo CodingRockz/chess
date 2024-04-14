@@ -1,0 +1,11 @@
+{
+  "defaultLanguageCode": "en",
+  "timeZone": "America/Los_Angeles",
+  "projectNumber": 452359914750,
+  "advancedSettings": {
+    "loggingSettings": {
+    
+    }
+  },
+  "startPlaybook": "Coding agent"
+}
